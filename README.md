@@ -22,29 +22,19 @@ How to properly structure and organize css and html.
 
 Provide instructions and examples for use. Include screenshots. 
 
--Clone repository onto computer through Github.
-<img src= >
+-Clone repository onto computer through Github by clicking on the code button and copying the SSH key through this link <a>https://github.com/jlamond37/landing-page</a> 
 
-To add a screenshot, create an 'assets/images' folder
+<img src= "./assets/images/githubscreenshot.png">
 
+-Right click and hit "Open in default browser"
+
+-Link for site: <a>https://jlamond37.github.io/landing-page/</a>
 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub projects.
+Collaborated with Freddy Kwak and Sean Dillon.
 
-Freddy Kwak and Sean Dillon.
 
-If you used any third-party assets that require attribution, list:
-
-If you followed tuturials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README filer is the license.
-
-## Badges
-
-## Features
 
 
